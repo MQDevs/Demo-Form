@@ -1,1 +1,1 @@
-You can submit the form information by changing the email part in the action(<form target="_blank" action="https://formsubmit.co/youremailhere@email.com" method="POST">). But it would only worl when your website is deployed.
+You can submit the form information by changing the email part in the action(<form target="_blank" action="https://formsubmit.co/youremailhere@email.com" method="POST">). But it would only work when your website is deployed.
